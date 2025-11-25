@@ -26,7 +26,7 @@ example/.pub/
 *.iml
 
 # FVM Version Cache
-.fvm/
+.fvm/flutter_sdk
 
 # Avoid committing credentials or secrets
 *.keystore
