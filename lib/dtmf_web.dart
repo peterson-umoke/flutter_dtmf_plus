@@ -45,6 +45,7 @@ Future<bool> playTone({
   double volume = 1.0,
 }) async {
   // Implement or simulate DTMF playback on web
+  // ignore: avoid_print
   print("Playing DTMF tone: $digits");
   return true;
 }

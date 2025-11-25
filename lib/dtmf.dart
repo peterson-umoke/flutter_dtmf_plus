@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 /// Dtmf enables playing DTMF tones crossplatform
 class Dtmf {
-  static const MethodChannel _channel = const MethodChannel('flutter_dtmf');
+  static const MethodChannel _channel = MethodChannel('flutter_dtmf');
 
   /// Plays the DTMF Tones Associated with the [digits]. Each tone is played for the duration [durationMs] in milliseconds
   /// at the specified volume. If no volume is specified, the system default is used. Volume value should be between

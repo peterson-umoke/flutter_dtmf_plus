@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_dtmf/dtmf.dart';
+import 'package:flutter_dtmf_plus/dtmf.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,8 +11,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String _platformVersion = 'Unknown';
-
   @override
   void initState() {
     super.initState();
