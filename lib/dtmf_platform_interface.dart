@@ -1,4 +1,4 @@
-import 'package:flutter_dtmf_pro/dtmf_method_channel.dart';
+import 'package:flutter_dtmf_plus/dtmf_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 abstract class DtmfPlatform extends PlatformInterface {

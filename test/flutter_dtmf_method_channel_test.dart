@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_dtmf_pro/flutter_dtmf_method_channel.dart';
+import 'package:flutter_dtmf_plus/flutter_dtmf_method_channel.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

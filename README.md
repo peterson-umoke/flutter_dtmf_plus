@@ -1,4 +1,4 @@
-# flutter_dtmf_pro
+# flutter_dtmf_plus
 
 A compact Flutter plugin to generate DTMF (Dual-Tone Multi-Frequency) tones. Use it to play telephone keypad tones (0–9, A–D, *, #) from your Flutter app.
 
@@ -16,7 +16,7 @@ Add the package to your `pubspec.yaml` (for local testing or development):
 
 ```yaml
 dependencies:
-	flutter_dtmf_pro:
+	flutter_dtmf_plus:
 		path: .
 ```
 
@@ -31,7 +31,7 @@ flutter pub get
 Import the plugin and call the provided API. The exact API names (class/function) may vary by version — check the library exports in `lib/` if in doubt.
 
 ```dart
-import 'package:flutter_dtmf_pro/flutter_dtmf_pro.dart';
+import 'package:flutter_dtmf_plus/flutter_dtmf_plus.dart';
 
 // Example: play a short sequence
 await Dtmf.playTone(

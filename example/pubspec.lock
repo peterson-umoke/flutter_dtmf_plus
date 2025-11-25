@@ -70,7 +70,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_dtmf_pro:
+  flutter_dtmf_plus:
     dependency: "direct dev"
     description:
       path: ".."

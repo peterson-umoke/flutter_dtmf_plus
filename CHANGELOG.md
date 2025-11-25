@@ -10,7 +10,7 @@
 - Removed unnecessary `.idea` and `.vscode` files from the package bundle.  
 - Updated `.gitignore` and `.pubignore` to comply with modern Flutter publishing standards.  
 - Improved README documentation with detailed platform usage and examples.  
-- Added proper versioning and package naming (`flutter_dtmf_pro`).  
+- Added proper versioning and package naming (`flutter_dtmf_plus`).  
 - Ensured clean `dart analyze` pass and improved null-safety compliance.
 
 ## 2.0.0
