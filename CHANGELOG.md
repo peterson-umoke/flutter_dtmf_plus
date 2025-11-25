@@ -1,3 +1,11 @@
+## 2.0.3
+- **Rebranded package** from `flutter_dtmf_pro` to `flutter_dtmf_plus`.
+- **Updated namespace** from `com.redemption` to `com.peterson_umoke` across all platforms.
+- Renamed iOS podspec file to `flutter_dtmf_plus.podspec`.
+- Updated Android package structure to `com.peterson_umoke.flutter_dtmf_plus`.
+- Updated example app bundle identifiers and package names.
+- All platform-specific code now uses the new namespace consistently.
+
 ## 2.0.2
 - Updated **README.md** for improved clarity and professionalism.  
 - Added explicit support details for **Android**, **iOS**, and **Web** platforms.  
