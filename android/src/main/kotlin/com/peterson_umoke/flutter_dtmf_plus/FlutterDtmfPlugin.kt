@@ -1,4 +1,4 @@
-package com.redemption.flutter_dtmf_pro
+package com.peterson_umoke.flutter_dtmf_plus
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall

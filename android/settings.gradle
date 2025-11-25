@@ -14,4 +14,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "flutter_dtmf"
+rootProject.name = "flutter_dtmf_plus"

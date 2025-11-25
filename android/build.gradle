@@ -3,11 +3,11 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
-group = 'com.redemption.flutter_dtmf_pro'
+group = 'com.peterson_umoke.flutter_dtmf_plus'
 version = '1.0-SNAPSHOT'
 
 android {
-    namespace = 'com.redemption.flutter_dtmf_pro'
+    namespace = 'com.peterson_umoke.flutter_dtmf_plus'
     compileSdk = 34
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package com.redemption.flutter_dtmf_pro
+package com.peterson_umoke.flutter_dtmf_plus
 import android.content.Context
 import android.media.ToneGenerator
 import android.media.AudioManager

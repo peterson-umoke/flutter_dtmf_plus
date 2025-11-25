@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_dtmf'
+  s.name             = 'flutter_dtmf_plus'
   s.version          = '1.0.1'
   s.summary          = 'Generates DTFM Tones for Flutter Application'
   s.description      = <<-DESC
