@@ -1,0 +1,22 @@
+# Files and directories to exclude from pub.dev package
+.idea/
+.vscode/
+.dart_tool/
+.fvm/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.metadata
+*.iml
+*.log
+*.swp
+.DS_Store
+example/.flutter-plugins
+example/.flutter-plugins-dependencies
+example/.dart_tool/
+example/build/
+example/ios/Pods/
+example/ios/.symlinks/
+example/android/.gradle/
+example/android/local.properties
+example/android/app/build/
